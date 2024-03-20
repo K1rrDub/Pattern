@@ -1,0 +1,14 @@
+C:\Users\bezbo\RiderProjects\The Builder pattern\The Builder pattern\bin\Debug\net7.0\The Builder pattern.exe
+C:\Users\bezbo\RiderProjects\The Builder pattern\The Builder pattern\bin\Debug\net7.0\The Builder pattern.deps.json
+C:\Users\bezbo\RiderProjects\The Builder pattern\The Builder pattern\bin\Debug\net7.0\The Builder pattern.runtimeconfig.json
+C:\Users\bezbo\RiderProjects\The Builder pattern\The Builder pattern\bin\Debug\net7.0\The Builder pattern.dll
+C:\Users\bezbo\RiderProjects\The Builder pattern\The Builder pattern\bin\Debug\net7.0\The Builder pattern.pdb
+C:\Users\bezbo\RiderProjects\The Builder pattern\The Builder pattern\obj\Debug\net7.0\The Builder pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bezbo\RiderProjects\The Builder pattern\The Builder pattern\obj\Debug\net7.0\The Builder pattern.AssemblyInfoInputs.cache
+C:\Users\bezbo\RiderProjects\The Builder pattern\The Builder pattern\obj\Debug\net7.0\The Builder pattern.AssemblyInfo.cs
+C:\Users\bezbo\RiderProjects\The Builder pattern\The Builder pattern\obj\Debug\net7.0\The Builder pattern.csproj.CoreCompileInputs.cache
+C:\Users\bezbo\RiderProjects\The Builder pattern\The Builder pattern\obj\Debug\net7.0\The Builder pattern.dll
+C:\Users\bezbo\RiderProjects\The Builder pattern\The Builder pattern\obj\Debug\net7.0\refint\The Builder pattern.dll
+C:\Users\bezbo\RiderProjects\The Builder pattern\The Builder pattern\obj\Debug\net7.0\The Builder pattern.pdb
+C:\Users\bezbo\RiderProjects\The Builder pattern\The Builder pattern\obj\Debug\net7.0\The Builder pattern.genruntimeconfig.cache
+C:\Users\bezbo\RiderProjects\The Builder pattern\The Builder pattern\obj\Debug\net7.0\ref\The Builder pattern.dll
